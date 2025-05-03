@@ -1,7 +1,4 @@
 
-Here's a sample README file for your Python Diwali analysis project:
-
----
 
 # Diwali Analysis Project
 
